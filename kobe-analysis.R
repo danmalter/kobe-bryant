@@ -3,7 +3,7 @@ library(dplyr)
 library(tidyr)
 library(ggthemes)
 
-kobe <- read.csv('~/Kaggle/kobe-bryant/data.csv') 
+kobe <- read.csv('~/Kaggle/kobe-bryant/kobe_shots.csv') 
 
 ### clean data ###
 
